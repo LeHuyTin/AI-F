@@ -28,3 +28,24 @@ venv/
 *.pyd
 *.dll
 *.safetensors
+
+# Node modules
+node_modules/
+# Python virtual env
+venv/
+.env
+# Model files
+*.h5
+*.pt
+*.pth
+*.onnx
+*.joblib
+*.pkl
+*.sav
+# VSCode settings
+.vscode/
+# Mac system files
+.DS_Store
+# Python cache
+__pycache__/
+*.pyc
