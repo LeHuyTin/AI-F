@@ -35,6 +35,9 @@ node_modules/
 venv/
 .env
 # Model files
+model/
+models/
+backend/model/
 *.h5
 *.pt
 *.pth
